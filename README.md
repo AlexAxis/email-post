@@ -1,10 +1,10 @@
 # email-post
 
-* RUN THE BACKEND
+RUN THE BACKEND
 * `cd backend`
 * `npm run dev`
 
-* RUN THE FRONTEND
+RUN THE FRONTEND
 * `cd frontend`
 * `npm run dev`
 
